@@ -1,0 +1,5 @@
+Package: example
+Version: 0.1
+Architecture: all
+Maintainer: Marcin Filipiak <m.filipiak@noweenergie.org>
+Description: example for GCompileAndPack script
