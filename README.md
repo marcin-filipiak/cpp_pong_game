@@ -1,5 +1,7 @@
 # Pong Game Documentation
 
+![pong](pong.jpg)
+
 ## Introduction
 This project is an educational example demonstrating the use of the SFML (Simple and Fast Multimedia Library) for creating a simple Pong game. The purpose of this project is to showcase the capabilities of SFML in handling graphics, audio, and user interactions.
 
